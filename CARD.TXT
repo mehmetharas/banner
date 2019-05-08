@@ -1,0 +1,117 @@
+.te-
+.jo off
+.bo off
+.lm0
+.ll80
+.kr on
+.xy 10,10
+.de
+.ke f7
+
+
+.cm draw outer box
+.xy 10,7
+
+.ke alt r
+
+
+.xy 457,354
+.ke f9
+
+
+.cm draw inner box
+.xy 431,336
+
+.ke alt r
+
+
+.xy 36,25
+
+.ke f9
+
+
+.ke up alt f * 13
+
+
+.lm6
+.ll 26
+.xy 72,54
+
+.bf gothic1
+.ke f7
+
+
+.ce
+Here is
+.ce
+the FIRST
+.ce
+Greeting Card
+.ce
+made by
+.ce
+.bf flow
+.ce
+FONTASY
+.ke f7
+
+.lm0
+.ll80
+
+.xy 430,335
+
+.ke alt b
+
+
+.xy 37,26
+
+.ke f9 f9 alt u alt m alt b
+
+
+.cm start second half (inside)
+
+
+.cm draw outer box
+.xy 511,398
+
+.ke alt r
+
+
+.xy 957,744
+.ke f9
+
+
+.cm draw inner box
+.xy 537,416
+
+.ke alt r
+
+
+.xy 931,726
+
+.ke f9
+
+
+.ke down alt f { 13
+
+
+.lm 48
+.ll 26
+.xy 577,441
+
+.bf script1
+.ke f7
+
+
+
+
+
+.ce
+Happy Burpday!
+
+.bf valentin
+.ce
+[ _ ]
+.lm
+.ll
+
